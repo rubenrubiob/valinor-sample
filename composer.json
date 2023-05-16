@@ -1,0 +1,23 @@
+{
+    "name": "rubenrubiob/valinor",
+    "description": "Sample project for cuyz/valinor",
+    "type": "project",
+    "require": {
+        "cuyz/valinor": "^1.4"
+    },
+    "require-dev": {
+        "vimeo/psalm": "^5.11"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rubenrubiob\\Valinor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubén Rubio",
+            "email": "ruben.rubio.barrera@gmail.com"
+        }
+    ]
+}
